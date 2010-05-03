@@ -2,6 +2,8 @@
 /**
  * AppError
  *
+ * it's a modif !!!
+ *
  * PHP version 5
  *
  * @package  Croogo
